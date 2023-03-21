@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="edit_text">Enter text</string>
+    <string name="button_text">Show Toast</string>
+</resources>
